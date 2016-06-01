@@ -1,0 +1,43 @@
+{
+    "name": "yiisoft/yii2-app-advanced",
+    "description": "Yii 2 Advanced Project Template",
+    "keywords": ["yii2", "framework", "advanced", "project template"],
+    "homepage": "http://www.yiiframework.com/",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
+        "forum": "http://www.yiiframework.com/forum/",
+        "wiki": "http://www.yiiframework.com/wiki/",
+        "irc": "irc://irc.freenode.net/yii",
+        "source": "https://github.com/yiisoft/yii2"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "2.0.8",
+        "yiisoft/yii2-bootstrap": "2.0.6",
+        "yiisoft/yii2-swiftmailer": "2.0.5",
+        "yiisoft/yii2-authclient": "2.0.5",
+        "yii2tech/ar-softdelete": "1.0.0",
+        "qiniu/php-sdk": "v7.0.7",
+        "yiisoft/yii2-httpclient": "2.0.x-dev",
+        "overtrue/pinyin": "3.0",
+        "kop/yii2-scroll-pager": "2.4.1"
+    },
+    "require-dev": {
+        "yiisoft/yii2-codeception": "2.0.5",
+        "yiisoft/yii2-debug": "2.0.6",
+        "yiisoft/yii2-gii": "2.0.5",
+        "yiisoft/yii2-faker": "2.0.3"
+    },
+    "config": {
+        "process-timeout": 1800
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}

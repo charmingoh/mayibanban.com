@@ -1,0 +1,33 @@
+.answer-like-action.done, .answer-favorite-action.done {
+    background-color: #337ab7;
+    color: white;
+}
+
+.answer-index .answer-like-action .answer-like-count {
+    display: block;
+    line-height: 16px;
+}
+
+.answer-index .answer-item-info {
+    color: darkgray;
+}
+
+.answer-index .user-avatar {
+    width: 40px;
+    height: 40px;
+}
+
+.answer-item-url .list-group-item {
+    font-size: 15px;
+    background-color: #fbfbfb;
+    color: #337ab7;
+}
+
+.answer-item-url .list-group-item:hover {
+    color: #23527c;
+}
+
+.answer-item-url {
+    margin-bottom: 13px;
+    border: 1px dashed #eee;
+}

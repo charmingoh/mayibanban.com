@@ -1,0 +1,24 @@
+.question-view .question-follow-action {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.question-view .question-title {
+    margin: 10px 0 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.question-view .question-title h5 {
+    font-size: 15px;
+}
+
+.question-view .user-avatar {
+    display: inline;
+    width: 20px;
+    height: 20px;
+}
+
+.question-view .question-info {
+    margin: 0;
+    color: darkgray;
+}

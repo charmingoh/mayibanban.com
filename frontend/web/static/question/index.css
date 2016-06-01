@@ -1,0 +1,32 @@
+.question-index-item .user-avatar {
+    width: 64px;
+    height: 64px;
+}
+
+.filter .desc, .filter .asc {
+    color: #449d44;
+}
+
+.question-index .panel-heading {
+    height: 45px;
+}
+
+.question-item-info {
+    color: darkgray;
+}
+
+/*.question-index .list-group {
+    margin-bottom: 0;
+    background-color: #f5f5f5;
+}*/
+
+.question-index .list-group-item {
+    border: none;
+    margin-bottom: 0;
+    border-bottom: 1px solid #ddd;
+}
+
+/*
+.question-index .pagination {
+    margin-left: 20px;
+}*/

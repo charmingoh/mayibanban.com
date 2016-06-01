@@ -1,0 +1,12 @@
+/*.site-log-index .pagination {
+    margin-left: 20px;
+}*/
+
+.site-log-item .other-info {
+    color: darkgray;
+}
+
+.site-log-item .user-avatar {
+    width: 60px;
+    height: 60px;
+}

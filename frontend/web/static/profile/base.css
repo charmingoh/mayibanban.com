@@ -1,0 +1,18 @@
+.profile-answer-list .pagination {
+    margin-bottom: 0px;
+    padding-left: 15px;
+}
+
+.profile-question-list .pagination {
+    margin-bottom: 0px;
+    padding-left: 15px;
+}
+
+#profile-nav {
+    margin-bottom: 20px;
+}
+
+img.profile-user-avatar {
+    width: 72px;
+    height: 72px;
+}
